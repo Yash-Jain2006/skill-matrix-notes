@@ -1,0 +1,16 @@
+# Environments
+.env
+.venv/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node.js
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
